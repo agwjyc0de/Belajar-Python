@@ -10,13 +10,7 @@ else:
     password = input()
 while password != 'snake':
     print('Password Salah .!')
-<<<<<<< HEAD
     print('Masukkan Password.!')
     password = input()
     
 print('Hai ' + username + ', Selamat Datang Kembali')
-
-=======
-else:
-    print('Hai ' + username + ', Selamat Datang Kembali')
->>>>>>> d191d9a2e33bfd4cc0afa5cd006e091d15beb9e7
